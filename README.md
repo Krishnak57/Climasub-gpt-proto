@@ -1,6 +1,6 @@
 # ClimaSub-GPT: A Live Substitution Optimizer
 
-This project was built for the [Name of your Hackathon] by Krishna Khanal and Bikesh Shrestha.
+This project was built for the ITDS Hackathon UNT by Krishna Khanal and Bikesh Shrestha.
 
 ## 🚀 Live App Demo
 
